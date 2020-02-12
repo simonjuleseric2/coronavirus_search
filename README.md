@@ -2,6 +2,13 @@
 
 Jupyter script exploring the google search on coronavirus during the month of January 2020.
 
+Required packages:
+-pytrends
+-pandas
+-geopandas
+-matplotlib
+
+
 ![](graph.png)
 
 
